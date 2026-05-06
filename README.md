@@ -1,4 +1,4 @@
-# 📊 Banking Transaction Analytics — Dimensional Modeling Project
+# 📊 Dimensional Modeling for Banking Transaction Analytics
 
 ## 🧾 Project Overview
 

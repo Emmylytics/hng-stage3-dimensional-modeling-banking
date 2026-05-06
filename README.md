@@ -35,7 +35,6 @@ The dataset consists of transactional banking records with the following compone
 ## 🛠️ Tools & Technologies  
 - SQL (PostgreSQL)  
 - dbdiagram.io (ERD design)  
-- Power BI (dashboarding and reporting)
 
 ---
 
@@ -123,7 +122,6 @@ The pipeline follows an **ETL (Extract, Transform, Load)** approach:
 * Dimensional schema (`.sql`)
 * ERD diagram (dbdiagram)
 * Analytical report (`.pdf`)
-* Power BI dashboard
 
 ---
 
@@ -132,16 +130,13 @@ The pipeline follows an **ETL (Extract, Transform, Load)** approach:
 ```bash
 banking-transaction-analytics/
 ├── data/
-│   └── sample_dataset.sql
+│   └── Transaction_data.csv
 ├── sql/
-│   ├── schema_design.sql
-│   └── transformations.sql
+│   └── schema_design.sql
 ├── docs/
 │   └── dimensional_model_report.pdf
 ├── erd/
 │   └── schema_diagram.png
-├── dashboard/
-│   └── powerbi_dashboard.pbix
 └── README.md
 ```
 

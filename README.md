@@ -32,6 +32,13 @@ The dataset consists of transactional banking records with the following compone
 
 ---
 
+## 🛠️ Tools & Technologies  
+- SQL (PostgreSQL)  
+- dbdiagram.io (ERD design)  
+- Power BI (dashboarding and reporting)
+
+---
+
 ## 🧠 Data Modeling Approach
 
 ### Star Schema Design
